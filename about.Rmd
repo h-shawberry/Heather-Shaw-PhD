@@ -1,0 +1,11 @@
+---
+title: "About Me"
+description: |
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+My name is Heather, and I am a lecturer at Lancaster University. My current research is positioned in the interdisciplinary fields of Behavioural Analytics and Computational Social Science. Specifically, I explore the digital footprints people leave behind following human-computer interactions, and how these can be utilised on a grand scale to answer key psychological questions within security, social psychology, personality, and health. My work has a strong methodological focus, developing new ways we can study human behaviour ‘in situ’, outside of the laboratory, through utilising contemporary technologies. 

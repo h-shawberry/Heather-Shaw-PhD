@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Me",
+      "author": [],
+      "contents": "\nMy name is Heather, and I am a lecturer at Lancaster University. My current research is positioned in the interdisciplinary fields of Behavioural Analytics and Computational Social Science. Specifically, I explore the digital footprints people leave behind following human-computer interactions, and how these can be utilised on a grand scale to answer key psychological questions within security, social psychology, personality, and health. My work has a strong methodological focus, developing new ways we can study human behaviour ‘in situ’, outside of the laboratory, through utilising contemporary technologies.\n\n\n\n",
+      "last_modified": "2022-03-23T20:20:01+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Heather Shaw PhD",
+      "description": "Teaches stuff & studies human behaviour via digital technologies. \n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-23T20:20:02+00:00"
+    },
+    {
+      "path": "Publications.html",
+      "title": "Publications",
+      "author": [],
+      "contents": "\n\n\n\n2022 \n\n\nShaw, H., Taylor, P. J., Ellis, D. A., & Conchie, S. M. (2022). Behavioral Consistency in the Digital Age. Psychological Science, 33(3), 364–370. https://doi.org/10.1177/09567976211040491\n\n\n\n\n\nGeyer, K., Ellis, D. A., Shaw, H., & Davidson, B. I. (2022). Open-source smartphone app and tools for measuring, quantifying, and visualizing technology use. Behavior Research Methods, 54(1), 1–12. https://doi.org/10.3758/s13428-021-01585-7\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2022-03-23T20:20:02+00:00"
+    }
+  ],
+  "collections": []
+}

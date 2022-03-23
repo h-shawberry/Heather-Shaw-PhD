@@ -1,0 +1,14 @@
+name: "Heather Shaw PhD"
+title: "Heather Shaw PhD"
+description: |
+  Heather Shaw PhD
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Publications"
+      href: Publications.html
+output: distill::distill_article
