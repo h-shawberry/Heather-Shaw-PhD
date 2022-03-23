@@ -19,7 +19,7 @@ Shaw, H., Taylor, P. J., Ellis, D. A., & Conchie, S. M. (2022). Behavioral Consi
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<div class="altmetric-embed" data-badge-type='medium-donut' data-badge-popover='right' data-altmetric-id="123290778"></div>
+<div class="altmetric-embed" data-badge-type='medium-donut'  data-altmetric-id="123290778"></div>
 
 <p>
 
@@ -27,7 +27,7 @@ Geyer, K., Ellis, D. A., Shaw, H., & Davidson, B. I. (2022). Open-source smartph
 
 <p> 
 
-<div class="altmetric-embed" data-badge-type='medium-donut' data-badge-popover='right' data-doi="10.3758/s13428-021-01585-7"></div>
+<div class="altmetric-embed" data-badge-type='medium-donut'  data-doi="10.3758/s13428-021-01585-7"></div>
 
 
 
